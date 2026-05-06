@@ -1,0 +1,2 @@
+# IMU-Surface-I-C-Based-IMU-Sensor-Interfacing-with-Raspberry-Pi-4-for-Console-Data-Visualization
+This project demonstrates the interfacing of an Inertial Measurement Unit (IMU) sensor with a Raspberry Pi 4 using the I²C communication protocol. The system captures real-time motion data such as acceleration and angular velocity from the IMU sensor and displays it on the console for monitoring and analysis.
